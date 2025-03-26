@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +11,6 @@ Currently, two official plugins are available:
 =======
 # fso-phonebook
 >>>>>>> da393642a4dfff1e6706588ccd893dc4f5282ab4
+=======
+# fso-phonebook-backend
+>>>>>>> origin/main
