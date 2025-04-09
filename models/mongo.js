@@ -9,6 +9,8 @@ const password = process.argv[2]
 
 const url = `mongodb+srv://syntaxmonkey2px:${password}@cluster0.4ko9m.mongodb.net/phonebookApp?retryWrites=true&w=majority&appName=Cluster0`
 
+console.log('Connecting to:', url); // Debugging the URL
+
 mongoose.set('strictQuery',false)
 
 mongoose.connect(url)
